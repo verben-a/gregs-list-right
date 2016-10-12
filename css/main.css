@@ -1,0 +1,98 @@
+nav {
+  width: 100%;
+  height:50px;
+  border: 1px solid black;
+  background-color:grey;
+  position:fixed;
+}
+
+main {
+  padding-top:90px;
+  padding-left:50px;
+  position:fixed;
+}
+
+.header {
+  font-size:20px;
+  margin-left:20px;
+  position:relative;
+  display:inline-block;
+}
+
+.links {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.magnifier{
+  background: transparent;
+  border: 1px solid gray;
+  border-radius: 5px;
+ }
+
+ .input {
+    border: 1px solid gray;
+    height: 24px;
+    width: 284px;
+    border-radius: 5px;
+    padding: 3px;
+    margin-bottom: 22px;
+ }
+ .blue {
+  color:blue;
+  font-weight:bold;
+
+/*
+
+.post {
+  float:right;
+  margin-top:10px;
+  margin-right:20px;
+  font-size:20px;
+  display:inline-block;
+}
+.account {
+  float:right;
+  margin-top:10px;
+  margin-right:20px;
+  font-size:20px;
+  display:inline-block;
+}
+
+.magnifier {
+  width:30px;
+  height:30px;
+  position:relative;
+}
+
+.form1 {
+  float:left;
+  margin-left:10px;
+  position:relative;
+  width:50%;
+}
+.form1:hover {
+  background-color: grey;
+}
+
+.button {
+  width:150px;
+  height:20px;
+  border:1px solid grey;
+  display:inline-block;
+  margin:0 auto;
+  float:left;
+  margin-left:0px;
+  margin-bottom:20px;
+  position:relative;
+}
+
+li {
+  list-style-type: none;
+}
+
+.blue {
+  color:blue;
+  font-weight:bold;
+}*/
