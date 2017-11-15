@@ -1,2 +1,3 @@
-##Thinkful Bootcamp Exercise##
+##Thinkful Bootcamp Exercise
+
 ⋅⋅* Basic HTML Exercise
